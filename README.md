@@ -116,6 +116,8 @@ An interactive map showing geographic spread of orders (excluding UK home market
 📅 Completed: **April 15, 2026**  
 🔖 Issued by: **Forage**
 
+![Certificate](./certificate.png)
+
 **Modules Completed:**
 - ✅ Framing the Business Scenario
 - ✅ Choosing the Right Visuals
