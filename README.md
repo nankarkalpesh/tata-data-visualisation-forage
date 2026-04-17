@@ -39,7 +39,7 @@ The deliverables included:
 
 ## 📸 Dashboard Preview
 
-![Global Retail Performance Dashboard](./Dashboard_Screenshot.png)
+![Dashboard](./Global_Retail_Performance_Dashboard-SS.png)
 
 > **4-panel Power BI dashboard** analyzing monthly revenue, top markets, key customers, and global demand.
 
@@ -141,5 +141,4 @@ An interactive map showing geographic spread of orders (excluding UK home market
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin)](https://linkedin.com)
 
 ---
-
 *This project was completed as part of a virtual job simulation and is intended for portfolio and learning purposes.*
